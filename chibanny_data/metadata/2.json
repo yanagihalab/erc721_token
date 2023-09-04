@@ -1,0 +1,17 @@
+{
+  "name": "Chibanny #2",
+  "description": "Official character of Chiba Institute of Technology",
+  "image": "https://ipfs.io/ipfs/QmZLEdX1aBRKQzXKZf3yeVDG3N3SRtzoNTmC1pvwncJBc8",
+  "edition": 2,
+  "event_type": "Open Campus 2022 Summer",
+  "attributes": [
+    {
+      "trait_type": "Hair colour",
+      "value": "C2+M2+Y4"
+    },
+    {
+      "trait_type": "Scene",
+      "value": "Backward"
+    }
+  ]
+}

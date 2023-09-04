@@ -1,0 +1,17 @@
+{
+  "name": "Chibanny #0",
+  "description": "Official character of Chiba Institute of Technology",
+  "image": "https://ipfs.io/ipfs/QmeLiBpicihzTGTdkRYCoq6JUAgZuupj7cDRpkJqehJhdX",
+  "edition": 0,
+  "event_type": "Open campus",
+  "attributes": [
+    {
+      "trait_type": "Hair colour",
+      "value": "C2+M2+Y4"
+    },
+    {
+      "trait_type": "Scene",
+      "value": "Holding a pen"
+    }
+  ]
+}
